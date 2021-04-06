@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Simple messenger web application hosted in Google Firebase and using Firebase as database to store messages. You can use the application by using link : https://my-messenger-c9085.web.app/
 
 ## Available Scripts
 
